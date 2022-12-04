@@ -1,0 +1,52 @@
+export const BLACK = '#000000';
+export const WHITE = '#ffffff';
+export const RED_LOVE = '#F03A17';
+export const TEAL_A400 = '#1DE9B6';
+export const ORANGE_BASE = '#F58621';
+export const GRAY = '#C2C2C2';
+export const HEADER_TITLE = '#666666';
+export const PLACE_HOLDER = '#898989';
+export const BORDER_COLOR = '#C4C3C3';
+export const BORDER_COLOR_2 = '#EFEFF4';
+export const BACKGROUND_PICKER_1 = '#f9f9f9';
+export const TEXT_COLOR_GRAY_1 = '#666666';
+export const ICON_GRAY_1 = '#C8C7CC';
+export const ICON_GRAY_2 = '#666666';
+export const ICON_DARK_1 = '#283842';
+export const MUTED_BLUE = '#317B99';
+export const LIGHT_BLUE = '#8ED2F3';
+export const PINK = '#FF2D55';
+
+export const PRIMARY = '#46B7F7';
+export const SECONDARY = '#006E78';
+export const BACKGROUND = '#ECEEEE';
+export const GOLDEN_TAINOI = '#FFBD59';
+export const MONTE_CARLO = '#78C7A3';
+export const ZIRCON = '#ECEEEE';
+export const SUCCESS = '#06D6A0';
+export const ERROR = '#E07A5E';
+
+export const SUCCESS_BLUE = '#4CD964';
+export const IMAGE_BACKGROUND = '#C8C7CC';
+export const PRIMARY_TEXT_COLOR_DARK = '#000000';
+export const SECONDARY_TEXT_COLOR = '#8C8C8C';
+export const DATE_COLOR = '#858E99';
+export const TEXT = '#141414';
+export const SECONDARY_BORDER_COLOR = '#707070';
+export const CREAM = '#FFEEAD';
+
+export const BLUE_BACKGROUND = '#1492E6';
+export const BUTTON_DISABLE_COLOR = '#EFEFF4';
+export const MULTI_LINE_TEXT_BACKGROUND = '#EFEFF4';
+export const BUTTON_DISABLE_TEXT_COLOR = '#C8C7CC';
+export const TEXT_BUTTON_COLOR = '#8A8A8F';
+export const BORDER = '#E1E1E6';
+export const MODAL_SECOND_BOTTON = '#E1E1E6';
+export const BLUE_TEXT = '#2680EB';
+export const WHITE_SMOKE = '#F5F5F5';
+export const SHINNING_SILVER = '#C6C6C8';
+export const COOL_GRAY = '#99ABB7';
+export const BLACK_TRANSPARENT = 'rgba(114, 114, 114, 0.7)';
+
+export const ORANGE_BASE_ARRAY = ['#F58621', '#F8A434', '#FBBA41'];
+export const GRAY_ARRAY = ['#D5D5D5', '#000000'];
